@@ -1,2 +1,1 @@
-# latex_dumpRepo
-Used for dumping any extra latex code
+Used for dumping Latex Code from a tutorial
